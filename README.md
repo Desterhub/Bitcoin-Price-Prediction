@@ -1,7 +1,7 @@
-₿ **Bitcoin Price Prediction Model**
+₿ **Bitcoin Price Prediction Model** :-
 This project focuses on predicting Bitcoin price trends using machine learning techniques and historical cryptocurrency data.
 
-🚀 Project Overview
+🚀 Project Overview :-
 The objective of this project is to analyze historical Bitcoin data and build predictive models to forecast price movements using regression techniques.
 
 🧠 Key Features
