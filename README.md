@@ -31,7 +31,7 @@ The objective of this project is to analyze historical Bitcoin data and build pr
 - Model Building
 - Evaluation
 
-📈 Key Insight
+📈 Key Insight :-
 Bitcoin price is highly volatile, and prediction accuracy depends heavily on feature selection and data preprocessing.
 
 🔮 Future Scope
@@ -39,5 +39,5 @@ Bitcoin price is highly volatile, and prediction accuracy depends heavily on fea
 - Real-time data integration
 - Sentiment analysis
 
-📌 Author
+📌 Author :-
 Harsh Shah
