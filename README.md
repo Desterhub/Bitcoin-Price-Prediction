@@ -84,10 +84,10 @@ Data Collection → Data Cleaning → EDA → Feature Engineering → Model Trai
 📈 Key Insight
 
 Bitcoin prices are highly volatile, and prediction accuracy depends heavily on:
-
-Feature selection
-Data preprocessing
-Market conditions
+- Feature selection
+- Data preprocessing
+- Market conditions
+- 
 🔮 Future Improvements
 
 🚀 LSTM / Deep Learning models
@@ -96,19 +96,26 @@ Market conditions
 📊 Advanced Technical Indicators
 
 📂 Project Structure
+```text
 ├── app.py
 ├── ai_model.py
 ├── dataset.csv
 ├── templates/
 ├── static/
 ├── README.md
+```
+
 🚀 How to Run
+```text
 git clone https://github.com/your-username/Bitcoin-Price-Prediction.git
 cd Bitcoin-Price-Prediction
 pip install -r requirements.txt
 python app.py
+```
 🌐 Open in Browser
+```text
 http://127.0.0.1:5000/
+```
 👨‍💻 Author
 
 Harsh Shah
