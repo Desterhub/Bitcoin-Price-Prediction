@@ -1,3 +1,12 @@
+<h1 align="center">🚀 Bitcoin Price Prediction</h1>
+
+<p align="center">
+  <img src="cover.jpeg" alt="Bitcoin Dashboard" width="100%">
+</p>
+
+<p align="center">
+  AI-powered Bitcoin prediction system with market insights 📊
+</p>
 ₿ **Bitcoin Price Prediction Model** :-
 This project focuses on predicting Bitcoin price trends using machine learning techniques and historical cryptocurrency data.
 
