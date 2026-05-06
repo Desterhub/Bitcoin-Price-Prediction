@@ -121,4 +121,4 @@ http://127.0.0.1:5000/
 Harsh Shah
 📍 Engineering Student | Data & ML Enthusiast
 
-<p align="center"> 💡 "Turning data into insights, and insights into decisions." </p> ```
+<p align="center"> 💡 "Turning data into insights, and insights into decisions." </p>
