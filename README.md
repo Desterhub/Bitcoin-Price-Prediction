@@ -79,7 +79,8 @@ It combines:
 ## ⚙️ Workflow
 
 ```text
-Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Prediction → Visualization ```
+Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Prediction → Visualization
+---
 📈 Key Insight
 
 Bitcoin prices are highly volatile, and prediction accuracy depends heavily on:
