@@ -36,12 +36,12 @@ It combines:
 
 ### 🔹 Market Analysis (Candles + Indicators)
 <p align="center">
-  <img src="image1.jpeg" width="90%">
+  <img src="img1.jpeg" width="90%">
 </p>
 
 ### 🔹 Forecast & RSI Insights
 <p align="center">
-  <img src="image2.jpeg" width="90%">
+  <img src="img2.jpeg" width="90%">
 </p>
 
 ---
