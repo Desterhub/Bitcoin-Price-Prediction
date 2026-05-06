@@ -80,6 +80,7 @@ It combines:
 
 ```text
 Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Prediction → Visualization
+```text
 
 📈 Key Insight
 
