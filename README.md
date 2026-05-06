@@ -90,10 +90,10 @@ Bitcoin prices are highly volatile, and prediction accuracy depends heavily on:
 - 
 🔮 Future Improvements
 
-🚀 LSTM / Deep Learning models
-🌐 Real-time crypto API integration
-🧠 Sentiment Analysis (News + Twitter)
-📊 Advanced Technical Indicators
+- 🚀 LSTM / Deep Learning models
+- 🌐 Real-time crypto API integration
+- 🧠 Sentiment Analysis (News + Twitter)
+- 📊 Advanced Technical Indicators
 
 📂 Project Structure
 ```text
